@@ -15,5 +15,9 @@
   "text":{
     "home": "Feliz 1 mês de live!\nPetiscos\n Feliz Natal Jupiter"
   },
+  "Online":{
+    "message1_on": true,
+    "message1_text": "Desativado :(",
+  },
    "num":155,
 }
